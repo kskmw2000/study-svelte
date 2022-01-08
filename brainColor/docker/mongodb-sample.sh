@@ -1,0 +1,1 @@
+docker run --name brainColor -v <pc 내 데이터베이스를 저장할 절대경로>:/data/db -d -p 27017:27017 mongo

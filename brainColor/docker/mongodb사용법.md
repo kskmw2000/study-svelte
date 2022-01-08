@@ -1,0 +1,6 @@
+- show dbs;
+- use <database명> : database를 만드는 역할을 한다.
+- db : 현재 사용하는 database를 확인할 수 있다.
+- db.createCollection("<name>") : 현재 사용하는 database에 name으로 Collection을 생성할 수 있다.
+- show collection;
+- db.<name>.find();
